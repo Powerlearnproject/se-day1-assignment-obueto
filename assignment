@@ -1,0 +1,47 @@
+#Part 1: Introduction to Software Engineering
+
+Software Engineering is simply the desigining, developing, testing and maintianing of software systems and solutions,
+it is important in the technology industry because it serves as a solution to time consuming and repeatative tasks.
+
+
+The evolution of software engineering has created an aspect of learning, creation of more programming langauges to suit complex structures 
+readily available applications for communication at a fast pace eg chating and messaging platforms, 
+marketing platforms has curb the limitation of traditional brick aand mortal method and accountability to ones self for example fitness and wellness applications
+
+
+
+The phases of SDLC include :Requirement : thr requirement gathering stage is the inital stage where all needs are gathered
+Design - this is where the designs are made to suit the user interface and the software system
+Implementation - this is when codes are written to back up the laid out design
+Testing - this when you check that the build is okay and meets all neccesary requirements
+Maintenance - this is where updates and checks are made to keep the software systems going
+
+
+The waterfall and Agile methodologies are used as at when apprioprate the waterfall method is more seqentical one phase has to be completely
+over before you begin another whereas an agile method is very flexible as it could be done in stages for example a software product is built in parts and versions and deloyed.
+
+
+In an engineering team a software developer is the one who writes the codes in the agreed programing language
+while the QAE tests for bugs  and the quality of what the sotware developer has written. The product manager oversees the process of the software phases from start to deployment
+
+
+The IDEs VCS are the enviromenment used to write, debug and track changes in the cause of the phases of thew software developement life cycle e.g of IDE is jetbrains and VC is git
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Some challenges software engineers face is with writing clean and clear code due to unrealistic deadlines
+one strategy to overcome this is by communicating effectively with realistic deadlines
+
+
+In quality assurance the different types of testing are unit which tests standalone components,
+intergration:  this tests interactions with other components
+system this is a comprehensive test
+acceptance this test is to ensure all users needs are duly met
+they are important as it helps detect costly and avoidable issues in good time
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+Prompt Engineering is setting clear instructions for  effective feedbacks
+
+Green charcaoal africa
+list 3 benefits of the using green charcoal in africa 
+it is importnant to give clear prompt in other to get the required results and response.
